@@ -13,7 +13,7 @@
         </h1>
 
         <p>
-            {{ $deskripsi }}
+            Habis senin itu selesai ya?
         </p>
 
         <a href="{{ route('produk') }}" class="btn">

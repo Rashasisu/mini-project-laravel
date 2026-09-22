@@ -19,18 +19,18 @@
             </h3>
 
             <p>
-                Jl. Contoh No. 123, Malang,
+                Jl. sama yang lain, Malang,
                 Jawa Timur
             </p>
 
             <br>
 
             <h3>
-                📱 WhatsApp
+                📱 Istagram
             </h3>
 
             <p>
-                08xxxxxxxxxx
+                Ganteng Fc
             </p>
 
             <br>
@@ -40,11 +40,11 @@
             </h3>
 
             <p>
-                Senin - Sabtu : 08.00 - 20.00
+                Senin - Sabtu : Gaul
             </p>
 
             <p>
-                Minggu : 08.00 - 17.00
+                Minggu : Galau
             </p>
 
         </div>
